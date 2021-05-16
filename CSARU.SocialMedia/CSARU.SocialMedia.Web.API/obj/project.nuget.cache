@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vo7nO6clDrNz399GNPlwl5CLN1UtpFmkwB5Skzn7Jo/zWWZbP0LsXD4NOgpWvhZnrXM8PqRu+y7D+Wr5sc2VnQ==",
+  "success": true,
+  "projectFilePath": "D:\\FileData\\cs-aru-socialMedia\\CSARU.SocialMedia\\CSARU.SocialMedia.Web.API\\CSARU.SocialMedia.Web.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ghost\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

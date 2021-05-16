@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSARU.SocialMedia.Web.API", "CSARU.SocialMedia.Web.API\CSARU.SocialMedia.Web.API.csproj", "{5923C83C-31FB-49F8-867E-DA38747C568C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5923C83C-31FB-49F8-867E-DA38747C568C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5923C83C-31FB-49F8-867E-DA38747C568C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5923C83C-31FB-49F8-867E-DA38747C568C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5923C83C-31FB-49F8-867E-DA38747C568C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1BBC4B7-3183-434E-A2F8-CBB07B685647}
+	EndGlobalSection
+EndGlobal
